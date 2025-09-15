@@ -1,0 +1,9 @@
+# Always use LF for text files
+* text=auto eol=lf
+
+# Unity YAML files should use LF
+*.meta text eol=lf
+*.unity text eol=lf
+*.prefab text eol=lf
+*.mat text eol=lf
+*.anim text eol=lf
